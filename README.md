@@ -1,18 +1,18 @@
-##Ex. No : 1
+## Ex. No : 1
 
 IMPLEMENTATION OF SYMBOL TABLE
 
-##NAME : Naveen kumar.R
+## NAME : Naveen kumar.R
 
-##Register Number : 212223230139
+## Register Number : 212223230139
 
-##Date : 24.10.2024
+## Date : 24.10.2024
 
-##AIM:
+## AIM:
 
 To write a C program to implement a symbol table.
 
-##ALGORITHM:
+## ALGORITHM:
 
 Start the program.
 Get the input from the user with the terminating symbol ‘$’.
@@ -78,11 +78,11 @@ int main() {
 }
 ```
 
-##OUTPUT:
+## OUTPUT:
 
 
 ![cd](https://github.com/user-attachments/assets/6bd21bb8-c443-4c22-85e4-1a9840a7e58d)
 
-##RESULT:
+## RESULT:
 
 The program to implement a symbol table is executed and the output is verified.
